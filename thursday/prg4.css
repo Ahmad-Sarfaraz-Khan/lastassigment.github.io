@@ -1,0 +1,12 @@
+body{
+    background-color: blue;
+}
+main{
+    margin: 100px auto;
+    text-align: center;
+}
+
+button{
+    padding: 10px;
+    border-radius: 15px;
+}
